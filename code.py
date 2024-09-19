@@ -48,7 +48,7 @@ min_epsilon = 0.01
 
 # Q-learning algorithm
 n_episodes = 10000
-max_steps = 200
+max_steps = 500
 
 for episode in range(n_episodes):
     state, _ = env.reset()
