@@ -1,7 +1,6 @@
 import gymnasium as gym
 import math
 import pygame
-import pickle
 import numpy as np
 # Initialize Pygame
 pygame.init()
